@@ -20,7 +20,7 @@ Then simply:
     await myChannel.put('Hello world!');
     const res = await myChannel.take();
     console.log(res); // Prints 'Hello world!'
-  });
+  })();
 
 ```
 
