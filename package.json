@@ -1,6 +1,6 @@
 {
   "name": "node-csp-channels",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CSP style channels in JavaScript",
   "main": "./lib/channel.js",
   "scripts": {
