@@ -3,6 +3,11 @@ CSP Style Channels
 
 CSP style concurrency based off [Tony Hoare's formal language](https://en.wikipedia.org/wiki/Communicating_sequential_processes).  
 
+Install
+-
+
+```npm install --save node-csp-channels```
+
 Useage
 -
 
